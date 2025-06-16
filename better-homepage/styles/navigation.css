@@ -18,7 +18,7 @@
     align-items: center;
     justify-content: space-evenly;
     flex-direction: row;
-    box-shadow: 7px 7px 10px 3px;
+    box-shadow: 7px 7px 10px 3px rgb(49, 49, 49);
 }
 .bookmark {
     color: white;
@@ -29,7 +29,4 @@ img {
     width: 100%;
     height: 100%;
     cursor: pointer;
-}
-.auburn-icon {
-
 }
